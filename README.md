@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mogly22
+- 👋 Hi, I’m Amogh Prabhakar (@Mogly22)
 - 👀 I’m interested in ... Data analysis 
 - 🌱 I’m currently learning ... Machine learning and data mining 
 - 💞️ I’m looking to collaborate on ...
