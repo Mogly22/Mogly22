@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amogh Prabhakar (@Mogly22)
 - 👀 I’m interested in ... Data analysis 
-- 🌱 I’m currently learning ... Machine learning and data mining 
+- 🌱 I’m currently learning ... Machine learning and data Science Concepts along with front end web Development such as html,css,javascript and react.
 - 📫 How to reach me ... amogh22@gmail.com
 
 <!---
